@@ -1,0 +1,7 @@
+local
+<<<<<<< HEAD
+xxcxcxcxc
+oooo
+=======
+xxcxcxcxc
+>>>>>>> 201695e7fe3890838222f298c3008cce0be81c2f
